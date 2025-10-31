@@ -82,7 +82,7 @@ const Articles = () => {
             {filteredArticles.map(article => (
               <article key={article.slug} className="group">
                 <a
-                  href={`/articles/${article.slug}`}
+                  href={`/${article.slug}`}
                   className="block transition-micro hover:bg-surface p-6 -mx-6 rounded focus-ring"
                 >
                   <div className="flex items-start justify-between gap-6">

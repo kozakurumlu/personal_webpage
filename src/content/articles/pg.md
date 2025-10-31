@@ -5,7 +5,7 @@ tags: [Interview, Entrepreneurship]
 summary: On prestige, ideas, and what beginners should build.
 draft: false
 ---
-Check the disclaimer before reading: [Interview Disclaimer](/articles/disclaimer)
+Check the disclaimer before reading: [Interview Disclaimer](/disclaimer)
 
 ---
 
