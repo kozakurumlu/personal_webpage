@@ -23,7 +23,7 @@ PG said startups are the more logical path to wealth. If you work 10× harder yo
 
 So why finance?
 
-The answer isn’t money. It’s prestige (except for the rare few who genuinely love analyzing markets). We were chasing status—the title, the optics, the nods of approval. The need for social acceptance was driving our close-mindedness. We had horse blinders on, fixating on a path without asking: Why do I want this? Why does society want me to want this?
+The answer isn’t money. It’s prestige (except for the rare few who genuinely love analysing markets). We were chasing status—the title, the optics, the nods of approval. The need for social acceptance was driving our close-mindedness. We had horse blinders on, fixating on a path without asking: Why do I want this? Why does society want me to want this?
 
 That was my first lesson from PG: don’t get tricked by prestige. And don’t go into finance.  
 (He admits he fell into a similar trap by choosing philosophy for prestige: <https://www.paulgraham.com/philosophy.html>)
