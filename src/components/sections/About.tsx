@@ -7,7 +7,7 @@ const About = () => {
         <div className="max-w-2xl">
           <ul className="text-body text-muted-foreground leading-relaxed mb-8 list-disc list-inside space-y-2">
             <li>Researching bio-inspired AI for generalisable intelligence with lower energy usage.</li>
-            <li>Ultramarathon running, mountaineering and sidequesting as a hobby.</li>
+            <li>Ultramarathon running, basketball and reading as a hobby.</li>
             <li>Interview and publish articles on prominent entrepreneurs.</li>
           </ul>
           
@@ -25,6 +25,11 @@ const About = () => {
             <Button variant="outline" size="sm" className="focus-ring" asChild>
               <a href="https://x.com/KozaKurumlu" target="_blank" rel="noopener noreferrer">
                 X
+              </a>
+            </Button>
+            <Button variant="outline" size="sm" className="focus-ring" asChild>
+              <a href="/cv.pdf" target="_blank" rel="noopener noreferrer">
+                CV
               </a>
             </Button>
           </div>

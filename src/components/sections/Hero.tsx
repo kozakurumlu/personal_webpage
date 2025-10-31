@@ -7,7 +7,7 @@ const Hero = () => {
         <h1 className="text-display mb-6">
           Koza Kurumlu
         </h1>
-        <p className="text-large text-muted-foreground font-light">Gap-year student researching neuromorphic AI, organoids and energy-based models.</p>
+        <p className="text-large text-muted-foreground font-light">Gap-year student doing AI research with neural organoids and neuromorhpic models.</p>
       </div>
     </section>;
 };
