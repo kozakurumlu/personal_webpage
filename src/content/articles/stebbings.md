@@ -2,7 +2,7 @@
 title: Harry Stebbings
 date: 2025-11-01
 tags: [Entrepreneurship, Interview]
-summary: On distribution and direct action
+summary: On distribution and direct action.
 draft: false
 ---
 Harry was the most impactful speaker I’ve interviewed, as his points were straight to the point and landed with everyone in the hall. Funnily enough, that was his exact message: immediate action + distribution.
