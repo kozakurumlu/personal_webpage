@@ -8,28 +8,34 @@ interface ExperienceItem {
 const Experience = () => {
   const experiences: ExperienceItem[] = [
     {
+      year: "Feb 2026",
+      role: "Machine Learning Engineer Intern",
+      organization: "Apple, Photos Intelligence Team, Cambridge, UK",
+      type: "Present"
+    },
+    {
       year: "2024",
       role: "NeuroAI Research",
       organization: "Uni of Bath",
       type: "Present"
     },
     {
-      year: "2025",
+      year: "July 2025",
       role: "AI Engineer Intern",
       organization: "Luca Health"
     },
     {
-      year: "2023",
+      year: "Dec 2023",
       role: "Quantitative Research Intern",
       organization: "Paritra Investment Research LTD"
     },
     {
-      year: "2023",
+      year: "July 2023",
       role: "AI Research Intern",
       organization: "Apricity Fertility"
     },
     {
-      year: "2022",
+      year: "Aug 2022",
       role: "SWE Intern",
       organization: "Vestico"
     },

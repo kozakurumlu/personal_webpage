@@ -9,12 +9,20 @@ interface EducationItem {
 const Education = () => {
   const education: EducationItem[] = [
     {
+      year: "2030",
+      degree: "Carnegie Mellon University",
+      institution: "Pittsburgh, PA",
+      activities: [
+        "B.S. Electrical and Computer Engineering"
+      ]
+    },
+    {
       year: "2025",
       degree: "Eton College",
       institution: "Windsor, UK",
       activities: [
         "Entrepreneurship Society",
-        "Computer Science Society", 
+        "Computer Science Society",
         "Basketball V",
         "A Levels: Maths, Further Maths, Computer Science and Physics"
       ]

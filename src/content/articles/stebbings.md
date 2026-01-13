@@ -5,6 +5,9 @@ tags: [Entrepreneurship, Interview]
 summary: On distribution and direct action.
 draft: false
 ---
+Check the disclaimer before reading: [Interview Disclaimer](/disclaimer)
+
+---
 Harry was the most impactful speaker I’ve interviewed, as his points were straight to the point and landed with everyone in the hall. Funnily enough, that was his exact message: immediate action + distribution.
 
 He started by asking about our plans after school, probing with short, iterative questions to find the kernel of what we wanted to do with our lives. If all of this is going to zero, and your time is limited, what do you want to do? The idea was simple, actually: why not start now? Why wait?

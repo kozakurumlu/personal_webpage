@@ -7,7 +7,7 @@ const About = () => {
         <div className="max-w-2xl">
           <ul className="text-body text-muted-foreground leading-relaxed mb-8 list-disc list-inside space-y-2">
             <li>Researching bio-inspired AI for generalisable intelligence with lower energy usage.</li>
-            <li>Ultramarathon running, basketball and reading as a hobby.</li>
+            <li>Ultramarathon running, adventure sports and reading as a hobby.</li>
             <li>Interview and publish articles on prominent entrepreneurs.</li>
           </ul>
           
