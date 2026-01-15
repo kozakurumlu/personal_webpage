@@ -9,7 +9,7 @@ const Experience = () => {
   const experiences: ExperienceItem[] = [
     {
       year: "Feb 2026",
-      role: "Machine Learning Engineer Intern",
+      role: "Apple ML Engineer Intern",
       organization: "Apple, Photos Intelligence Team, Cambridge, UK",
       type: "Present"
     },
