@@ -9,8 +9,6 @@ Check the disclaimer before reading: [Interview Disclaimer](/disclaimer)
 
 ---
 
-# What I Learned From Johan Brand (Founder of Kahoot!)
-
 ## Design for Emotion
 
 I asked Johan for one piece of advice that aspiring founders probably wouldn't hear in a traditional business class. Something counterintuitive.
