@@ -1,5 +1,5 @@
 ---
-title: Paul Graham
+title: Paul Graham: Founder of Y Combinator
 date: 2025-10-31
 tags: [Interview, Entrepreneurship]
 summary: On prestige, ideas, and what beginners should build.

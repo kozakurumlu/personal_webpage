@@ -1,5 +1,5 @@
 ---
-title: Matt Cohler
+title: Matt Cohler: LinkedIn, Facebook, Benchmark
 date: 2026-01-14
 tags: [Interview, Entrepreneurship]
 summary: On failure, luck, hiring, founders, and why Silicon Valley still wins.

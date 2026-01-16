@@ -1,5 +1,5 @@
 ---
-title: Harry Stebbings
+title: Harry Stebbings: Founder of 20VC
 date: 2025-11-01
 tags: [Entrepreneurship, Interview]
 summary: On distribution and direct action.

@@ -1,5 +1,5 @@
 ---
-title: What I Learned From Johan Brand
+title: Johan Brand: Founder of Kahoot!
 date: 2026-01-14
 tags: [Interview, Entrepreneurship]
 summary: On human design, importance of emotion, breaking rules.
